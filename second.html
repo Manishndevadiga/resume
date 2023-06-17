@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Limit  character input in the text area including count. 
+</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+</script>
+<script>
+		$(document).ready(function () {
+			var max_length = 25;
+			$('textarea').keyup(function () {
+				var len = max_length - $(this).val().length;
+				$('.len').text(len);
+			});
+
+		});
+</script>
+</head>
+<body>
+<form>
+<p>Enter the text in the textbox</p>
+<textarea maxlength="25"></textarea>		
+<p>
+<p class="len">25 Characters Remaining</p>
+</form>
+</body>
+</html>
