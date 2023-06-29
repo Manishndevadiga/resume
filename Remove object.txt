@@ -1,4 +1,3 @@
-API TOKEN  Authorization: Token r8_7T2gI7IKml4CIyFfpqPxvejIqwfWkq51vFpX8
 
 https://cleanup.pictures/   (Remove unwanted objects from the image)
 
