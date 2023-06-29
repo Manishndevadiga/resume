@@ -1,0 +1,13 @@
+API TOKEN  Authorization: Token r8_7T2gI7IKml4CIyFfpqPxvejIqwfWkq51vFpX8
+
+https://cleanup.pictures/   (Remove unwanted objects from the image)
+
+https://www.watermarkremover.io/  (Remove the water mark from the image)
+
+https://express.adobe.com/sp/projects  Rremove background ,create QR Code of link, PDF arrangement)
+
+https://uiverse.io/ (all frontend designs)
+
+https://www.onlineocr.net/dashboard  ( doc Converter)
+
+https://www.codewithharry.com/tutorial/python/ (codewithharry Python course)
